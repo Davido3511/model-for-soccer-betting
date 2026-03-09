@@ -44,8 +44,4 @@ Positive edges are flagged and rated using a tier system (A–D).
 ## Technologies Used
 
 - R
-- tidyverse
-- readxl
-- Poisson probability modeling
 
-## Project Structure
